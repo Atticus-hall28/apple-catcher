@@ -1,2 +1,8 @@
 /.vscode
 /build
+/AppDir
+a.out
+app.appimage
+appimage.bash
+main.o
+my_app_dir.appimage
